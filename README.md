@@ -1,7 +1,6 @@
 # bluesky2x-workflow
 
 [![Actions Status](https://github.com/go-zen-chu/bluesky2x-workflow/workflows/bluesky2x-cron/badge.svg)](https://github.com/go-zen-chu/bluesky2x-workflow/actions)
-[![Actions Status](https://github.com/go-zen-chu/bluesky2x-workflow/workflows/bluesky2x-manual/badge.svg)](https://github.com/go-zen-chu/bluesky2x-workflow/actions)
 
 GitHub Action workflow for syncing bluesky post to X using [swithcboard](https://github.com/go-zen-chu/switchboard).
 
