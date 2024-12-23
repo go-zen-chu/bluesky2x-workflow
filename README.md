@@ -6,6 +6,10 @@ GitHub Action workflow for syncing bluesky post to X using [switchboard](https:/
 
 Check [![GitHub issues](https://img.shields.io/github/issues/go-zen-chu/bluesky2x-workflow.svg)](https://github.com/go-zen-chu/bluesky2x-workflow/issues) for any issues about this workflow.
 
+## ⚠️Limitations
+
+- [Please check Twitter API limitation](https://developer.x.com/en/portal/products/free). If you are Free plan, it will be very easy to surpass number of posts limitation
+
 ## Installation
 
 1. Fork this repository
