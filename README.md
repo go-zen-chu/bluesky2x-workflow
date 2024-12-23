@@ -9,6 +9,7 @@ Check [![GitHub issues](https://img.shields.io/github/issues/go-zen-chu/bluesky2
 ## ⚠️Limitations
 
 - [Please check Twitter API limitation](https://developer.x.com/en/portal/products/free). If you are Free plan, it will be very easy to surpass number of posts limitation
+- There are several features that are not implemented in [switchboard](https://github.com/go-zen-chu/switchboard/labels/enhancement)
 
 ## Installation
 
