@@ -4,12 +4,16 @@
 
 GitHub Action workflow for syncing bluesky post to X using [switchboard](https://github.com/go-zen-chu/switchboard).
 
-Check [![GitHub issues](https://img.shields.io/github/issues/go-zen-chu/bluesky2x-workflow.svg)](https://github.com/go-zen-chu/bluesky2x-workflow/issues) for any issues about this workflow.
+## Demo
+
+You can see how it looks like in my account.([X Account](https://x.com/Go_zen_chu) and [Bluesky Account](https://bsky.app/profile/amasuda.xyz))
 
 ## ⚠️Limitations
 
-- [Please check Twitter API limitation](https://developer.x.com/en/portal/products/free). If you are Free plan, it will be very easy to surpass number of posts limitation
+- [Please check Twitter API limitation](https://developer.x.com/en/portal/products/free). If you are Free plan, it's very easy to surpass number of posts limitation
 - There are several features that are not implemented in [switchboard](https://github.com/go-zen-chu/switchboard/labels/enhancement)
+
+Check [![GitHub issues](https://img.shields.io/github/issues/go-zen-chu/bluesky2x-workflow.svg)](https://github.com/go-zen-chu/bluesky2x-workflow/issues) for any issues about this workflow.
 
 ## Installation
 
