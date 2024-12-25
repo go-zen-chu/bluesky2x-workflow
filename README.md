@@ -33,3 +33,5 @@ Check [![GitHub issues](https://img.shields.io/github/issues/go-zen-chu/bluesky2
     ```
 
     It would be like an image below. ![](./docs/repository-secrets.png)
+4. That's it! GitHub Action workflow will automatically sync your latest bluesky posts to X in an hour 🙂
+ 
